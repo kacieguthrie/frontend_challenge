@@ -53,21 +53,26 @@ table {
  }
 
 body {
-	background-color: white;
+	background-color: ;
 	font-family: sans-serif;
 	font-size: 20px;
 	font-weight: 300;
 	margin: 0 auto;
 	color: #F9F5ED;
-
 }
 
 .container {
-	background-color: #2A2A2A;
+	background-color: #4A4A4A;
 	margin: 0 auto;
 	width: 375px;
 	height: 640px;
 
+}
+
+.status-bar {
+	image: cover;
+	width: 375px;
+	height: 15px;
 }
 
 nav {
@@ -75,7 +80,6 @@ nav {
 	height: 45px;
 	background-color: #666;
 	padding-top: 4%;
-	position: ;
 }
 
 .arrow-left{
@@ -83,16 +87,19 @@ nav {
 	float: left;
 	color: #EECA00;
 	margin-left: 16px;
+	position: absolute;
 }
 
 h1 {
 	text-align: center;
   letter-spacing: 0.05em;
+
 }
 
 .stop-routes {
 	overflow: scroll;
 	height: 595px;
+	background-color: #2A2A2A;
 }
 
 .direction {
@@ -165,7 +172,7 @@ h1 {
 .alert {
 	display: inline-block;
 	float: right;
-  padding: 24px 15px 0 0;
+  padding: 5% 25px 5% 0;
   width: 40%;
 	text-align: right;
 	color: #EECA00;
@@ -175,24 +182,24 @@ h1 {
 	display: inline-block;
 	float: right;
   padding: 26px 15px 0 0;
-  width: 40%;
+  width:30%;
 	text-align: right;
 }
 
 .frequency h6 {
 	display: inline;
-	font-size: 0.7em;
+	font-size: 0.7em;/*14px*/
 }
 
 .frequency h5 {
 	display: inline;
-	font-size: 1.3em;
+	font-size: 1.3em; /*26px*/
 	font-weight: thin;
 }
 
 .footer {
-	padding: 10px 0 10px 10px;
-	font-size: 0.7em;
+	padding: 10px 0 25px 26px;
+	font-size: 0.7em; /*14px*/
 	background-color: #4A4A4A;
 }
 
