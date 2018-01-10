@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="32px" viewBox="0 0 36 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>alert</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alert" transform="translate(1.000000, 0.000000)">
+            <path d="M18.3010003,1.71334881 L33.8011104,28.7540405 L33.8011104,28.7540405 C34.2130924,29.4727631 33.9644301,30.3893804 33.2457074,30.8013625 C33.0186418,30.9315197 32.7614723,31 32.4997479,31 L1.49952771,31 L1.49952771,31 C0.671100588,31 -0.000472287071,30.3284271 -0.000472287071,29.5 C-0.000472287071,29.2382756 0.0680079803,28.981106 0.198165212,28.7540405 L15.6982753,1.71334881 L15.6982753,1.71334881 C16.1102574,0.994626144 17.0268747,0.74596377 17.7455973,1.15794585 C17.9767775,1.29046162 18.1684845,1.48216864 18.3010003,1.71334881 Z" id="Triangle" stroke="#F8E71C"></path>
+            <text id="!" font-family="SFProDisplay-Bold, SF Pro Display" font-size="14" font-weight="bold" letter-spacing="0.615384698" fill="#F8E71C">
+                <tspan x="14.9774639" y="24">!</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
