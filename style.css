@@ -69,10 +69,8 @@ body {
 }
 
 .status-bar {
-	image: contain;
 	width: 375px;
 	height: 15px;
-	font-family: inherit;
 }
 
 nav {
