@@ -149,6 +149,7 @@ h1 {
 .route-name {
 	display: inline-block;
 	font-size: 0.8em;
+	letter-spacing: 0.05em;
   padding: 16px 0 13px 0;
 	line-height: 1.2em;
 }
